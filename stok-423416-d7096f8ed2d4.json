@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "stok-423416",
+  "private_key_id": "d7096f8ed2d477488ac40a8b95770964d96da3ac",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDHQdqD1TVmMyzQ\n8527Tz5MjRMgvPNRccUizsiQLTAsAZiWC8JY04C+dYx3CxXO1e7kkNbR07sdxVBy\nP32OcEiir1Y1PObwSP3EHzANpCyyzXhVtl1gDwlNi1Pl19uFlszATXs2JxXS4alC\nvbogCk6Ra8IZOpmpA0Tr4HE5taDTofV49x9jXLZx1XTQGrUJdvaxKQ9QuxfyRmZV\nGCPxwQ5fLKHufKlU7/tX48i1SW73jXMfvlSW0fNLeVdfgPH2SELYEWmufzP6PaC+\nY5C8vMj0JZnkpqUXSTc5U4dRDYo3gD5+S2fEqmQMwVSIZaTPGm23S4vm5s3Qamyu\n73l4moarAgMBAAECggEAJ20U1yQPSlcS5Y9mpOLjoVMCt2YbwQBBcQc4cSq3zuVL\n81iFTn0fCtCIiB+F46S5/bjZALCj5BqgNdLxPYdjH+mQpb0UtvPCXpWLNQ/IlmKI\njnEknbar8Q+B/McO1SqG/f/2wrrOGylyi9Wtp9xSOnz3bXWGZQZUE1YYIUKafXVD\nDJhliorTavyF5fKbdr6Wp7vL24onjY3XjXPbx1BQTJ0SsFT+2VcAC+7mutZFmXvb\n935X7PYRCSxn/228TAzyrWdK8BndoVtMlIubLspAYdg5ZEXE9/UlPcODLe/qzcjP\n33JdjCoRIJlwwBLiM+tvU+aEgVy08fycTMzI7duBLQKBgQD7wOA3xXOTneimGBfQ\nfmXVOcpF7pnZU9wKrwWQcLYppv/AeAiw0mMZadGvaGnkDINbtnoJmnGgNFdtUr9+\nrViEMLBkI8KiEQtBEK0f9GGuzzv/o3pv9u32fY/kPTQRlXCoZ6KoAqGOvnvmSl3L\nd4Vs7+M+bQu30+mWkmULB3pe5wKBgQDKnknGvQGlZyPHykCi9Fkha6KCNT84cgdF\nwl+95VkeFxN1FTY5oY69kS/s3fHdOdbNt+5g+Ne44i02hbzis4HMhnhhEP5fzVzH\ns1DLzboV8nr3MsmnAvV4hnJkLn0smBRFljcYrwVh7qQp+bE3lTPyueMvvNC5ri1X\n3YYQYUO1nQKBgH5NGnAAeGZzj1dcuP3Zm98oegkxli/I+ZjGi+UWFt24sZBu5/VF\n53/FbfQxTwahHHmzh3Av8pdsCvyGyhmUf9b50lS6+Bd0s4+1/RUN9r/Lqg8rhe6M\nFIBYKAtahTfZIEbsj1b40vKZL/GuF3ZPhTnM89XKwVk9UHBBC75HxyW7AoGAI2Sz\nDnxFpVb28RdrYwu75hKfOI+Ek5+XlZ/2iX1eq9rsEy+5YSfPf121OXMrpLFNzHGs\nulO9mxYnP7bs38zrh4aV0J7fUGzXICs6md89+kd5I2VDxGDH8F3L7aQRSZDnOaCb\nzzwDfK/rDUoIouT1Rhkijlw1OborQYX4vTPAWCECgYEA9Hq82wB5Bbjarb7wALuB\njj/Wlwy6pfO9wS65uANQ7grtAdPbG1r77vuPUE40NiP/ZhxFucgZ0sL1P+oMD08/\n4NUlVc6lytSy9BY0DP2H0REpk0GWiEHc/NEYmCMzq3T8aKMnUBjuvvzPK/GM+CTh\nZd1/BSZnVAn/v5WhVsro878=\n-----END PRIVATE KEY-----\n",
+  "client_email": "soni-agung@stok-423416.iam.gserviceaccount.com",
+  "client_id": "111214280720901092205",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/soni-agung%40stok-423416.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
