@@ -1,4 +1,7 @@
-
+import tk as tk
+from tk import ttk, messagebox
+import gspread
+from oauth2client.service_account import ServiceAccountCredentials
 
 def auth_gspread():
     scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
