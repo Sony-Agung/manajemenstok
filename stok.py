@@ -1,4 +1,3 @@
-import tk 
 
 
 def auth_gspread():
