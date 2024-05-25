@@ -1,8 +1,6 @@
 import tk 
 
 
-from oauth2client.service_account import ServiceAccountCredentials
-
 def auth_gspread():
     scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
     creds = ServiceAccountCredentials.from_json_keyfile_name("stok-423416-d7096f8ed2d4.json", scope)
