@@ -1,5 +1,6 @@
 import tk 
-import gspread
+
+
 from oauth2client.service_account import ServiceAccountCredentials
 
 def auth_gspread():
