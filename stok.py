@@ -1,4 +1,4 @@
-import tkinter
+import tkinter as tk
 from tkinter import ttk, messagebox
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
